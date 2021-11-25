@@ -3,7 +3,7 @@
 #include "mpi.h"
 
 #define DEBUG 0
-#define ARRAY_SIZE 100000
+#define ARRAY_SIZE 10000
 
 /*
  * Buble sort algorithm.

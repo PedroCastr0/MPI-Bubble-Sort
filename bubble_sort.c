@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ARRAY_SIZE 100000
+#define ARRAY_SIZE 10000
 
 #include <sys/time.h>
 
